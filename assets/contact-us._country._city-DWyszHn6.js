@@ -1,0 +1,1 @@
+import{e as o,j as t}from"./index-CN8fimb2.js";function s(){const{city:e}=o.useLoaderData();return t.jsxs("div",{children:['Hello "/contact-us/$country/',e,'"!',t.jsxs("h1",{className:"heading",children:["Selected city: ",e]})]})}export{s as component};
