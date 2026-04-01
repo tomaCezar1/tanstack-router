@@ -19,4 +19,5 @@ export default defineConfig({
     }),
     react(),
   ],
+  base: '/tanstack-router/',
 });
